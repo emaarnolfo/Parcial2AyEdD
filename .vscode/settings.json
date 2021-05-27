@@ -1,0 +1,6 @@
+{
+  "C_Cpp_Runner.cCompilerPath": "C:\\w64devkit\\bin\\gcc.exe",
+  "C_Cpp_Runner.cppCompilerPath": "C:\\w64devkit\\bin\\g++.exe",
+  "C_Cpp_Runner.debuggerPath": "C:\\w64devkit\\bin\\gdb.exe",
+  "C_Cpp_Runner.makePath": "C:\\w64devkit\\bin\\make.exe"
+}

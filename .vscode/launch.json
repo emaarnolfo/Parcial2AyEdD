@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "c:\\Users\\emanu\\Desktop\\Cuarto\\Algoritmos y Estructuras de datos\\Segundo Parcial",
+      "environment": [],
+      "program": "c:\\Users\\emanu\\Desktop\\Cuarto\\Algoritmos y Estructuras de datos\\Segundo Parcial\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:\\w64devkit\\bin\\gdb.exe",
+      "externalConsole": true
+    }
+  ]
+}
